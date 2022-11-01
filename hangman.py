@@ -6,3 +6,7 @@ def play():
   print("**********************************")
 
   print("End of the game")
+
+
+if(__name__ == "__main__"):
+  play()

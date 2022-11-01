@@ -49,3 +49,7 @@ def play():
             spots = spots - lost_points
 
     print("End of the game")
+
+
+if(__name__ == "__main__"):
+    play()
